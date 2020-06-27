@@ -1,0 +1,16 @@
+/* CSS Document */
+.header1 {
+  background: #00CBFF;
+  color: white;
+  height: 50px;
+  justify-items: center;
+  align-items: center; }
+  .header1 h1 {
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    position: relative;
+    text-transform: uppercase; }
